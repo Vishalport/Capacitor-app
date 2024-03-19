@@ -1,1 +1,1 @@
-# Capacitor-app
+# Capacitor-app || NEXT.JS
